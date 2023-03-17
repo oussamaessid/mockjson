@@ -1,0 +1,14 @@
+{
+    "services": [
+        {"id":1,"name":"Pippy","image":"http://dummyimage.com/142x100.png/cc0000/ffffff","type":1},
+{"id":2,"name":"Kathrine","image":"http://dummyimage.com/194x100.png/5fa2dd/ffffff","type":2},
+{"id":3,"name":"Carolan","image":"http://dummyimage.com/233x100.png/dddddd/000000","type":3},
+{"id":4,"name":"Farlie","image":"http://dummyimage.com/121x100.png/dddddd/000000","type":4},
+{"id":5,"name":"Muhammad","image":"http://dummyimage.com/222x100.png/cc0000/ffffff","type":5},
+{"id":6,"name":"Antoinette","image":"http://dummyimage.com/143x100.png/dddddd/000000","type":6},
+{"id":7,"name":"Hynda","image":"http://dummyimage.com/170x100.png/5fa2dd/ffffff","type":7},
+{"id":8,"name":"Ofella","image":"http://dummyimage.com/152x100.png/dddddd/000000","type":8},
+{"id":9,"name":"Kelila","image":"http://dummyimage.com/110x100.png/ff4444/ffffff","type":9},
+{"id":10,"name":"Vere","image":"http://dummyimage.com/240x100.png/ff4444/ffffff","type":10}
+]
+}
